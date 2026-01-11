@@ -1,0 +1,11 @@
+.dev
+.env
+.key
+.csr
+.pem
+.cert
+*-key
+.vagrant
+private-key
+.crt
+.csr
